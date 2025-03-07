@@ -1,0 +1,20 @@
+{
+    "products": {
+        "web_development": {
+            "description": "Custom web application development",
+            "pricing": "Starting from $5000",
+            "delivery_time": "4-12 weeks"
+        },
+        "ai_solutions": {
+            "description": "AI integration services",
+            "pricing": "Custom quotes",
+            "use_cases": ["Chatbots", "Data Analysis", "Process Automation"]
+        }
+    },
+    "guidelines": {
+        "tone": "Professional yet friendly",
+        "response_time": "Immediate",
+        "forbidden_topics": ["Non-business queries", "Personal advice", "General chatting"],
+        "redirect_message": "I focus on CodeSiddhi's services. How can I help you with our solutions?"
+    }
+}
